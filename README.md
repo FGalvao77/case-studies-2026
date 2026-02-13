@@ -1,1 +1,1 @@
-# case-studies-2026
+# Tutorials/2026
